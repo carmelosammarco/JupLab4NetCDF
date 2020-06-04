@@ -1,5 +1,5 @@
 
-# MerOCenv: Mercator Ocean Python Environment
+# JupLab4NetCDF:  Python Environment to Manipulate/Plot NetCDF files
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmelosammarco/JupLab4NetCDF/master?urlpath=lab/tree/Notebook/Manipulate-plot_CMEMSdata.ipynb)  
 
