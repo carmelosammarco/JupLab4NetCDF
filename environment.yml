@@ -1,0 +1,35 @@
+name: JupLab4NetCDF
+channels:
+  - conda-forge
+dependencies:
+  - notebook
+  - jupyterlab
+  - bokeh
+  - python
+  - numpy
+  - matplotlib
+  - basemap
+  - cartopy
+  - scipy
+  - pip
+  - pip:
+    - jupyter-server-proxy
+    - jupyter-offlinenotebook
+    - requests
+    - ftputil
+    - motuclient
+    - netCDF4
+    - csv342
+    - pandas
+    - xarray 
+    - shapely>=1.6.4.post1
+    - fiona>=1.8.4
+    - pyshp
+    - cdo
+    - tool4NC
+    - ads4MO
+    - moviepy
+    - scikit-learn
+    - natsort
+    
+  

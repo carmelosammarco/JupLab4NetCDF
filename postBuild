@@ -1,0 +1,7 @@
+set -ex
+
+conda update -n base conda
+
+jupyter labextension install jupyter-offlinenotebook
+
+conda install -c conda-forge basemap-data-hires
