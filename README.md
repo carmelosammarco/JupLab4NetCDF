@@ -3,7 +3,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmelosammarco/JupLab4NetCDF/master?urlpath=lab/tree/Notebook/Manipulate-plot_CMEMSdata.ipynb)  
 
-I developed this python environment while working as [AKKA](https://www.akka-technologies.com) consultant engeneer for the [CMEMS's Service Desk (Copernicus Marine Environment Monitoring Service)](http://marine.copernicus.eu). I was and I am inspired by the Mercator-Ocean's community (users, co-workers, web-forum discussions and many more) which gave me ideas and the motivational power to build this tool. It is the first python application of its kind created inside the CMEMS environment and I hope that with time it will became an ufficial CMEMS tool. The main goals that I wanted to adress were solving the most common user problems as the data-download requests and the netCDF file manipulations and finally have an environment which can be used freedomly online to solve many computational problems.
+**I developed this software because motivated to improve my efficiency and productivity. It is just an attemp/idea/prototype and it is not fully optimased or considered stable.**
 
 **This project gave me also ideas to develop other tools** as [tool4NC](https://github.com/carmelosammarco/tool4NC), [MerOC](https://github.com/carmelosammarco/MerOC),[ads4MO](https://github.com/carmelosammarco/ads4MO)and [FTPsubsetMO](https://github.com/carmelosammarco/FTPsubsetMO). To know more about them just visit the projects web pages which are hyperlinked above.
 
