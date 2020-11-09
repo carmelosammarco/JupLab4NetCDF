@@ -26,8 +26,6 @@ dependencies:
     - fiona>=1.8.4
     - pyshp
     - cdo
-    - tool4NC
-    - ads4MO
     - moviepy
     - scikit-learn
     - natsort
